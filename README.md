@@ -8,13 +8,13 @@
 - [Reference](#reference)
 - [License & Copyright](#license--copyright)
 
-## :pencil2: Description
+## Description
 - This series covers the basics of Git/GitHub
 - Instructions for installing and using Git/GitHub
 - Suitable audience: everyone, more suitable for those who do not have knowledge of Git/GitHub
 - Expression Language: Vietnamese
 
-## :scroll: List of chapters
+## List of chapters
 *Sorted in order from easy to difficult*
 Chapter ID | Chapter Name | Description
 ---------- | ------------ | -----------
