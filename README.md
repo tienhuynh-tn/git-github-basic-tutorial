@@ -22,7 +22,8 @@ Chapter ID | Chapter Name | Description
 2| [Set up Git - Ready for Git](https://github.com/tienhuynh-tn/git-github-basic-tutorial/blob/main/Git-GitHub%20C%C6%A1%20B%E1%BA%A3n%20-%20Ch%C6%B0%C6%A1ng%202%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20Git%20-%20Ready%20for%20Git.pdf) | - The concept of Git <br/> - Git installation guide <br/> - Git Setup Guide
 3| [Some basic Git commands](https://github.com/tienhuynh-tn/git-github-basic-tutorial/blob/main/Git-GitHub%20C%C6%A1%20B%E1%BA%A3n%20-%20Ch%C6%B0%C6%A1ng%203%20C%C3%A1c%20l%E1%BB%87nh%20Git%20c%C6%A1%20b%E1%BA%A3n.pdf) | - Concept of some basic Git commands <br/> - Make changes on GitHub Repo and sync <br/> - Make changes on the local repo and sync <br/> 
 4| [Beautiful and Professional GitHub Profile?](https://github.com/tienhuynh-tn/git-github-basic-tutorial/blob/main/Git-GitHub%20C%C6%A1%20B%E1%BA%A3n%20-%20Ch%C6%B0%C6%A1ng%204%20H%E1%BB%93%20s%C6%A1%20GitHub%20v%C3%A0%20GitHub%20README%20-%20Beautiful%20and%20Professional%20GitHub%20Profile.pdf) | - Concept of file REAME.md <br/> - Learn about Markdown <br/> - Beautify your GitHub profile with Markdown
-5| ... | ... 
+5| [Contributing on GitHub](https://github.com/tienhuynh-tn/git-github-basic-tutorial/blob/main/Git-GitHub%20C%C6%A1%20B%E1%BA%A3n%20-%20Ch%C6%B0%C6%A1ng%205%20%C4%90%C3%B3ng%20g%C3%B3p%20cho%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20-%20Contributing.pdf) | - Fork concept <br/> - How to Fork a GitHub Project <br/> - How to Clone a GitHub Project <br/> - Make a contribution to a project on GitHub
+6| ... | ... 
 
 ## Reference
 - [GitHub Documentation](https://docs.github.com/en)
