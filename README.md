@@ -23,7 +23,7 @@ Chapter ID | Chapter Name | Description
 3| [Some basic Git commands](https://github.com/tienhuynh-tn/git-github-basic-tutorial/blob/main/Git-GitHub%20C%C6%A1%20B%E1%BA%A3n%20-%20Ch%C6%B0%C6%A1ng%203%20C%C3%A1c%20l%E1%BB%87nh%20Git%20c%C6%A1%20b%E1%BA%A3n.pdf) | - Concept of some basic Git commands <br/> - Make changes on GitHub Repo and sync <br/> - Make changes on the local repo and sync <br/> 
 4| [Beautiful and Professional GitHub Profile?](https://github.com/tienhuynh-tn/git-github-basic-tutorial/blob/main/Git-GitHub%20C%C6%A1%20B%E1%BA%A3n%20-%20Ch%C6%B0%C6%A1ng%204%20H%E1%BB%93%20s%C6%A1%20GitHub%20v%C3%A0%20GitHub%20README%20-%20Beautiful%20and%20Professional%20GitHub%20Profile.pdf) | - Concept of file REAME.md <br/> - Learn about Markdown <br/> - Beautify your GitHub profile with Markdown
 5| [Contributing on GitHub](https://github.com/tienhuynh-tn/git-github-basic-tutorial/blob/main/Git-GitHub%20C%C6%A1%20B%E1%BA%A3n%20-%20Ch%C6%B0%C6%A1ng%205%20%C4%90%C3%B3ng%20g%C3%B3p%20cho%20c%C3%A1c%20d%E1%BB%B1%20%C3%A1n%20-%20Contributing.pdf) | - Fork concept <br/> - How to Fork a GitHub Project <br/> - How to Clone a GitHub Project <br/> - Make a contribution to a project on GitHub
-6| ... | ... 
+6| [Organization on GitHub](https://github.com/tienhuynh-tn/git-github-basic-tutorial/blob/main/Git-GitHub%20C%C6%A1%20B%E1%BA%A3n%20-%20Ch%C6%B0%C6%A1ng%206%20T%E1%BA%A1o%20t%E1%BB%95%20ch%E1%BB%A9c%20v%C3%A0%20nh%E1%BB%AFng%20%C4%91i%E1%BB%81u%20c%C6%A1%20b%E1%BA%A3n%20v%E1%BB%81%20t%E1%BB%95%20ch%E1%BB%A9c.pdf) | - The Concept of Organization in GitHub <br/> - Managing members of the Organization <br/> - Some basic settings
 
 ## Reference
 - [GitHub Documentation](https://docs.github.com/en)
